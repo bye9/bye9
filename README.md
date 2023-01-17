@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bye9&show_icons=true&bg_color=00000000&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=bye9&show_icons=true&bg_color=00000000&count_private=true)
